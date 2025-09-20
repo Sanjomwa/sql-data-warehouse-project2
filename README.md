@@ -7,6 +7,8 @@ This project showcases a robust data warehousing and analytics solution tailored
 ##Project Overview
 This project builds a modern data warehouse to consolidate and analyze financial transaction datasets, enabling the detection of fraudulent activities and generating actionable insights. By leveraging advanced data engineering techniques and SQL-based analytics, the project aims to uncover patterns of fraud, assess transaction behaviors, and provide stakeholders with critical financial metrics.
 
+...
+
 ###Project Requirements
 
 Building a modern Data Warehouse (Data Engineering).
@@ -15,7 +17,9 @@ Building a modern Data Warehouse (Data Engineering).
 
 Develop a scalable data warehouse using SQL Server to integrate financial transaction data, enabling efficient fraud detection and analytical reporting.
 
-####Specifications
+...
+
+####**Specifications**
 
 **Data Sources**: Import data from five datasets provided as CSV files:
 
@@ -30,10 +34,11 @@ Develop a scalable data warehouse using SQL Server to integrate financial transa
 **Script**: Focus on processing the latest dataset; historical data archiving is not required.
 **Documentation**: Provide comprehensive documentation of the data model, including schema descriptions, to support business stakeholders and analytics teams.
 
+...
 
-##BI: Analytics & Reporting (Data Analytics)
+**##BI: Analytics & Reporting (Data Analytics)**
 
-###Objectives
+**###Objectives**
 
 Develop SQL-based analytics to deliver insights into:
 **Fraud Detection**: Identify patterns and anomalies indicative of fraudulent transactions.
@@ -47,6 +52,8 @@ Develop SQL-based analytics to deliver insights into:
 •	Transaction volume and value by merchant category.
 •	User behavior trends across demographics.
 •	High-risk transaction patterns.
+
+...
 
 ###Getting Started
 **Prerequisites**
@@ -76,7 +83,9 @@ docs/                    # Data model documentation
 README.md                # Project overview
 LICENSE                  # License file
 
-####Usage
+...
+
+**####Usage**
 **Data Warehouse Setup**:
 Use the scripts in scripts/ to create tables, perform ETL processes, and integrate the five datasets.
 Refer to docs/data_model.md for a detailed schema description.
@@ -88,10 +97,12 @@ Example queries include identifying high-risk transactions, analyzing merchant c
 **Visualization**:
 Export query results to visualization tools (e.g., Power BI, Tableau) for interactive dashboards.
 
-##License
+...
+
+**##License**
 This project is licensed under the MIT License (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-###About Me
+**###About Me**
 Hi there! I am Samwel Njogu Mwaniki, a passionate data engineering enthusiast dedicated to leveraging data to solve real-world challenges. With this project, I aim to demonstrate my expertise in building data pipelines, designing analytical models, and delivering actionable insights, particularly in the domain of financial fraud detection. My goal is to empower businesses and individuals with the tools to make informed, data-driven decisions.
 Feel free to reach out for collaboration or inquiries
 Email: [njogumwaniki9@gmail.com]  
